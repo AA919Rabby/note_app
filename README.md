@@ -1,16 +1,16 @@
-# note_app
+# Note App
 
-A new Flutter project.
+A simple **Flutter Note App** built using **GetX** and **Hive local database**.  
+Easily create, edit, delete, and favorite your notes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete notes
+- Mark notes as favorites
+- View all favorite notes in a separate screen
+- Persistent local storage with Hive
+- Reactive UI with GetX
 
-A few resources to get you started if this is your first Flutter project:
+## Download APK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click here https://drive.google.com/file/d/1XDGwvnd2IdAbDcduo4pg_MlKPrkwKamV/view?usp=drive_link
