@@ -41,6 +41,7 @@ class _NotedetailsState extends State<Notedetails> {
                 Fluttertoast.showToast(
                   msg: 'Copied',
                   backgroundColor: Colors.brown,
+                  textColor: Colors.white,
                 );
               },
               child: Icon(Icons.copy, color: Colors.white, size: 19),
