@@ -34,19 +34,6 @@ class _NotedetailsState extends State<Notedetails> {
             ? []
             :
         [
-          Center(
-            child: InkWell(
-              onTap: () {
-                Clipboard.setData(ClipboardData(text: note.description));
-                Fluttertoast.showToast(
-                  msg: 'Copied',
-                  backgroundColor: Colors.brown,
-                  textColor: Colors.white,
-                );
-              },
-              child: Icon(Icons.copy, color: Colors.white, size: 19),
-            ),
-          ),
           SizedBox(width: 15),
           Center(
             child: InkWell(
