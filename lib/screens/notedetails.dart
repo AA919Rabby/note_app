@@ -40,7 +40,7 @@ class _NotedetailsState extends State<Notedetails> {
                 Clipboard.setData(ClipboardData(text: note.description));
                 Fluttertoast.showToast(
                   msg: 'Copied',
-                  backgroundColor: Colors.white,
+                  backgroundColor: Colors.brown,
                 );
               },
               child: Icon(Icons.copy, color: Colors.white, size: 19),
