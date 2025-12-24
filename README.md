@@ -11,6 +11,20 @@ Easily create, edit, delete, and favorite your notes.
 - Persistent local storage with Hive
 - Reactive UI with GetX
 
+
+
+
+#Technology used
+
+Getx state management
+
+Flutter for ui/ux design
+
+Hive local database
+
+
+
+
 ## Download APK
 
 Click here https://drive.google.com/file/d/1k30WJbiTkFn0WSi8LMqAAnNRq79X-C_5/view?usp=drive_link
